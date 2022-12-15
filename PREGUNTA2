@@ -1,0 +1,10 @@
+
+
+print("Bienvenido usuario")
+print("Por favor indiquenos su nombre")
+name=input ( )
+print("Ingrese sus apellidos")
+num2=input()
+print("Ingrese su edad")
+num3=int(input())
+print ("Gracias su nombre es:," , name, num2, "y su edad es", num3)

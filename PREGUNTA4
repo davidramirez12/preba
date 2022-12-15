@@ -1,0 +1,9 @@
+print("Bienvenido estudiante")
+print("Ingrese su primera nota de practica")
+num1=int(input())
+print("Ingrese la nota de su examen parcial")
+num2=int(input())
+print("Ingrese la nota de su examen final")
+num3=int(input())
+promediofinal= 4/10*num1 + 3/10*num2 + 3/10*num3 
+print("Su promedio final es:", promediofinal )

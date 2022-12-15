@@ -1,0 +1,13 @@
+num1=0
+num2=0
+num3=0
+
+print("Bienvenido usuario")
+print("Ingrese su primer numero entero")
+num1=int(input())
+print("Ingrese su segundo numero entero")
+num2=int(input())
+print("Ingrese su tercer numero entero")
+num3=int(input())
+suma=num1+num2+num3 
+print("El resultado es", suma )
